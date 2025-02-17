@@ -1,0 +1,9 @@
+sympy
+pycryptodome
+hashlib
+numpy
+matplotlib
+networkx
+scipy
+pandas
+scikit-learn
